@@ -1,0 +1,9 @@
+*.pyc
+projects.db
+.Python
+.DS_Store
+.DS_Store?
+activate/
+bin/
+include/
+lib/
